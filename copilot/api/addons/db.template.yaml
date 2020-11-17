@@ -109,7 +109,7 @@ Resources:
       ScalingConfiguration:
         AutoPause: true
         MinCapacity: 2
-        MaxCapacity: 5
+        MaxCapacity: 16
         SecondsUntilAutoPause: 1000
 
 Outputs:
